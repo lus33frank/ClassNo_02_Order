@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">No:02_Order(點餐單)</string>
+    <string name="TableNumber">桌號：</string>
+    <string name="Customer">一般顧客</string>
+    <string name="VIP">VIP</string>
+    <string name="Main_meal">主餐</string>
+    <string name="A_meal">A餐-$100</string>
+    <string name="B_meal">B餐-$150</string>
+    <string name="C_meal">C餐-$200</string>
+    <string name="D_meal">D餐-$250</string>
+    <string name="Beverage">附餐飲料</string>
+    <string name="Coffee">咖啡</string>
+    <string name="BlackTea">紅茶</string>
+    <string name="Btn_Order">點餐結帳</string>
+    <string name="client">客戶類型：</string>
+    <string name="totle">消費總金額：</string>
+    <string name="dollar">元</string>
+</resources>
